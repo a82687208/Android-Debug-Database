@@ -29,5 +29,5 @@ task clean(type: Delete) {
 ext {
     compileSdk = 33
     targetSdk = 33
-    minSdk = 14
+    minSdk = 21
 }
